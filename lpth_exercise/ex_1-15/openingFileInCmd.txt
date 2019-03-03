@@ -1,0 +1,8 @@
+Inorder to open a file in the python interpreter, we need to follow the following guideline:
+
+first change the path to the location of the file i.e. it should be in the current working directory
+
+then, put the relative path of the file within double quotes in the braces of open function, as:
+open(".\sample.txt")
+
+now you can read it .

@@ -1,0 +1,4 @@
+This is just a sample text.
+I created this to test the open and other file commands in python3.
+I hope all the commands and functions will work as expected.
+So, without further delay, let's use this in our python code!!!

@@ -1,0 +1,5 @@
+This is another sample text for ex15.
+I am so excited to learn python from Learn Python the Hard way series.
+This book is really awesome and has some really nice features.
+I just love the way it is written.
+It is not just a book but it is a piece of Art.

@@ -1,0 +1,9 @@
+print("You are infront of a big door of a palace.\nWhat do you want to do?\n")
+choice = (input("> "))
+print("You Entered: ", choice)
+if choice == "open door" or choice == "open":
+    score += 5
+    print(
+        f"Welcome to the Game!!\nYou are now in the palace\nYour score is {score}")
+else:
+    print(f"You loose!!\nYour Score is still {score}")
